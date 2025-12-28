@@ -44,7 +44,7 @@ You can run the experiments directly in Google Colab using this notebook:
   <img src="test/a3.png" width="150" />
 </p>
 Output panorama:  
-<img src="test/resulta.png" width="450" />
+<img src="result/resulta.png" width="450" />
 
 ### Example 2: Boat images
 <p float="left">
@@ -54,5 +54,5 @@ Output panorama:
   <img src="test/boat4.jpg" width="120" />
 </p>
 Output panorama:  
-<img src="test/resultboat.png" width="480" />
+<img src="result/resultboat.png" width="480" />
 
