@@ -38,14 +38,21 @@ You can run the experiments directly in Google Colab using this notebook:
 ## Example
 
 ### Example 1: Simple test images
-Input images:  
-![a1](test/a1.png) ![a2](test/a2.png) ![a3](test/a3.png)  
+<p float="left">
+  <img src="test/a1.png" width="150" />
+  <img src="test/a2.png" width="150" />
+  <img src="test/a3.png" width="150" />
+</p>
 Output panorama:  
-![result](test/resulta.png)  
+<img src="test/resulta.png" width="450" />
 
 ### Example 2: Boat images
-Input images:  
-![boat1](test/boat1.jpg) ![boat2](test/boat2.jpg) ![boat3](test/boat3.jpg) ![boat4](test/boat4.jpg)  
+<p float="left">
+  <img src="test/boat1.jpg" width="120" />
+  <img src="test/boat2.jpg" width="120" />
+  <img src="test/boat3.jpg" width="120" />
+  <img src="test/boat4.jpg" width="120" />
+</p>
 Output panorama:  
-![resultboat](test/resultboat.png)
+<img src="test/resultboat.png" width="480" />
 
