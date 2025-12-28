@@ -34,3 +34,18 @@ You can test the pipeline using your own images or sample images from the OpenCV
 
 You can run the experiments directly in Google Colab using this notebook:  
 [Open in Colab](https://colab.research.google.com/drive/1WOOvzP7u7qvt-4NhqanoaNtRMK-MKt8r#scrollTo=_LKbVyy0hrQ5)
+
+## Example
+
+### Example 1: Simple test images
+Input images:  
+![a1](test/a1.png) ![a2](test/a2.png) ![a3](test/a3.png)  
+Output panorama:  
+![result](test/resulta.png)  
+
+### Example 2: Boat images
+Input images:  
+![boat1](test/boat1.jpg) ![boat2](test/boat2.jpg) ![boat3](test/boat3.jpg) ![boat4](test/boat4.jpg)  
+Output panorama:  
+![resultboat](test/resultboat.png)
+
